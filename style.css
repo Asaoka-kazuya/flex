@@ -3,6 +3,8 @@
   height: 50vh;
   padding: 10px;
   display: flex; /*レイアウトを横並びにする*/
+  justify-content: center;
+  align-items: center;
 }
 
 .flex>div{
